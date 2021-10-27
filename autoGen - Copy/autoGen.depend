@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1604007971 source:c:\users\leandro\desktop\autogen\ghost.c
+	"ghost.h"
+
+1604007971 c:\users\leandro\desktop\autogen\ghost.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+	"menu.h"
+
+1604007971 c:\users\leandro\desktop\autogen\utn.h
+
+1604007971 c:\users\leandro\desktop\autogen\menu.h
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+
+1604007971 source:c:\users\leandro\desktop\autogen\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ghost.h"
+	"utn.h"
+	"menu.h"
+
+1604007971 source:c:\users\leandro\desktop\autogen\menu.c
+	"menu.h"
+
+1604007996 source:c:\users\leandro\desktop\autogen\utn.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
